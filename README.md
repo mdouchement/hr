@@ -42,3 +42,16 @@ GOOS=darwin GOARCH=amd64 go build -o hr-Darwin-x86_64 hr.go
 ```sh
 GOOS=windows GOARCH=amd64 go build -o hr-Windows-x86_64.exe hr.go
 ```
+
+
+## License
+
+**MIT**
+
+## Contributing
+
+1. Fork it ( https://github.com/mdouchement/hr/fork )
+2. Create your feature branch (`git checkout -b my-new-feature`)
+3. Commit your changes (`git commit -am 'Add some feature'`)
+4. Push to the branch (`git push origin my-new-feature`)
+5. Create a new Pull Request
