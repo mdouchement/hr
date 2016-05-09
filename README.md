@@ -23,7 +23,7 @@ go get github.com/mdouchement/hr
 go build hr.go
 ```
 
-> According [Golang system list](https://github.com/golang/go/blob/master/src/go/build/syslist.go)
+> According to [Golang system list](https://github.com/golang/go/blob/master/src/go/build/syslist.go)
 
 - GNU/Linux
 
